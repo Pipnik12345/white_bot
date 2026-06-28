@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+lxml
+python-telegram-bot==20.7
+aiohttp
+pycryptodome
